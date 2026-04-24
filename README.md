@@ -51,6 +51,8 @@ I practiced connecting my local machine to training labs through OpenVPN.
 - Opened and connected VPN profile
   I used sudo openvpn <openvpnfile>
 - Verified connection status
+  <img width="1366" height="768" alt="Screenshot_2026-04-24_09_53_59" src="https://github.com/user-attachments/assets/ad33e970-1b1d-4d52-bfab-a057621bc67e" />
+
   <img width="1366" height="768" alt="Screenshot_2026-04-24_09_56_53" src="https://github.com/user-attachments/assets/00acebf2-4e2b-41bf-bae3-7f588faee1af" />
 
 - Accessed lab targets through the VPN tunnel
