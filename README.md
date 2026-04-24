@@ -44,6 +44,8 @@ Using a ready lab environment allows me to focus on learning concepts and tool u
 
 ## 3) Local Machine + OpenVPN
 I practiced connecting my local machine to training labs through OpenVPN.
+<img width="1366" height="681" alt="Screenshot (449)" src="https://github.com/user-attachments/assets/c3acb681-b2a5-4d9a-b170-ffd5206b28f1" />
+
 
 ### What I did
 - Opened and connected VPN profile
