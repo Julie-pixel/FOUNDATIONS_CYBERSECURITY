@@ -49,9 +49,13 @@ I practiced connecting my local machine to training labs through OpenVPN.
 
 ### What I did
 - Opened and connected VPN profile
-  
+  I used sudo openvpn <openvpnfile>
 - Verified connection status
+  <img width="1366" height="768" alt="Screenshot_2026-04-24_09_56_53" src="https://github.com/user-attachments/assets/00acebf2-4e2b-41bf-bae3-7f588faee1af" />
+
 - Accessed lab targets through the VPN tunnel
+  <img width="1366" height="768" alt="Screenshot_2026-04-24_09_57_32" src="https://github.com/user-attachments/assets/49b7d398-3e6f-4a9b-bd73-4f77a1ff8881" />
+
 
 ### Why this matters
 VPN creates a secure tunnel between my machine and the lab environment, enabling safe and isolated practice.
@@ -104,11 +108,6 @@ I learned the CIA Triad as a foundational model in cybersecurity:
 ## Ethical Commitment
 I will only practice in legal, authorized environments such as training labs, CTF platforms, and systems I own or have explicit permission to test.
 
-## Next Steps
-- Networking basics (IP, ports, protocols, OSI/TCP-IP)
-- Linux fundamentals for cybersecurity
-- Intro to common tools (Nmap, Wireshark)
-- First beginner lab write-up with screenshots and findings
 
 ## Reflection
 This foundation phase helped me understand the “why” behind cybersecurity before diving deep into tools and attacks.  
